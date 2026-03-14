@@ -1,0 +1,15 @@
+function setLang(lang){
+
+if(lang=="en"){
+alert("Switch to English");
+}
+
+if(lang=="jp"){
+alert("日本語に変更");
+}
+
+if(lang=="kr"){
+alert("한국어로 변경");
+}
+
+}

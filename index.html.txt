@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>老串角居酒屋</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>老串角居酒屋</h1>
+
+<nav>
+<a href="#">菜單</a>
+<a href="#">訂位</a>
+<a href="#">分店</a>
+</nav>
+
+<h2>炭火串燒 · 日式居酒屋</h2>
+
+<p>歡迎來到老串角居酒屋</p>
+
+<script src="script.js"></script>
+
+</body>
+</html>
